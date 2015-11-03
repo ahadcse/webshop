@@ -8,6 +8,7 @@ import org.junit.Test;
 import se.tacton.numbers.Numbers;
 
 public class NumberTest {
+
     @Test
     public void testNumbers() {
         BigInteger result1 = new BigInteger("8");

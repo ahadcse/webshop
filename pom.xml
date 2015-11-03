@@ -53,7 +53,6 @@
 				<configuration>
 					<source>1.7</source>
 					<target>1.7</target>
-					<mainClass>se.tacton.numbers.Numbers</mainClass>
 				</configuration>
 			</plugin>
 			<plugin>
